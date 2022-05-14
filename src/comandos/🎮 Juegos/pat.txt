@@ -1,0 +1,27 @@
+const Discord = require('discord.js');
+const fetch = require('node-fetch');
+
+module.exports = {
+  name: 'pat',
+  aliases: [],
+  desc: 'Pat someone!',
+  run: async (client, message, args, prefix) => {
+    const user = message.mentions.users.first();
+    if (!user) return message.reply('Please mention a user!');
+    fetch('https://api.waifu.pics/sfw/pat')
+      .then((res) => res.json())
+      .then((body) => {
+        const embed = new Discord.MessageEmbed()
+          .setTitle(`${message.author.username} Patting ${user.username}`)
+          .setImage(body.url)
+          .setColor('#FFC0CB')
+          .setFooter(
+            `${message.author.tag}`,
+            message.author.displayAvatarURL({ dynamic: true })
+          )
+          .setTimestamp();
+
+        message.channel.send({ embeds: [embed] });
+      });
+  },
+};

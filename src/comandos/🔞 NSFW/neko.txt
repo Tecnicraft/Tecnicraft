@@ -1,0 +1,27 @@
+const Discord = require("discord.js");
+const porn = require("discord-nsfw"), nsfw = new porn();
+
+module.exports={
+    name:"neko",
+    alias:["nk"],
+    desc:"neko nsfw",
+    run: async (prefix, message, args, client) => {
+    
+        let a = await nsfw.nekofeet();
+        let b = await nsfw.nekopussy();
+        let c = await nsfw.nekotits(); 
+        let random = Math.floor(Math.random()* 100);
+        
+        const embed = new Discord.MessageEmbed()
+        .setColor("RANDOM")
+        .setDescription(`${message.author.username} Aqui esta tu gatito :neutral_face:...`)
+        .setFooter(`${message.guild.name}`, message.guild.iconURL({dynamic:true}))
+        .setTimestamp();
+        
+        if(random <= 30)embed.setImage(a);
+        if(random > 30 && random<= 60)embed.setImage(b);
+        if(random > 60 && random<= 100)embed.setImage(c);
+         
+    message.channel.send({ embeds: [embed] });
+    }
+}
