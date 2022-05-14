@@ -1,11 +1,11 @@
 {
-    "token": "OTcxODMzMTEzNzI4NjQ3MTY4.GOk6X6.lZbI9Rj8wP6AZMyqIYqSRym8PnVqqyia1eP1gQ",
+    "token": "",
     "prefix": "tc.",
-    "mongodb": "mongodb+srv://TecnicraftBot:darkgamer291998@tecnicraftbot.sgowh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodb": "",
     "ownerIDS": ["852360638541594716"],
     "color": "#8400ff",
     "clientId": "971833113728647168",
     "guild": "922570205354397697",
-    "token0": "OTI5NTU2NTI3MTc2NjQyNTYy.YdpC-g.rUJMc52ppxVvVvcKNXMQLLpZ3zg",
+    "token0": "",
     "clientId0": "929556527176642562"
 }
