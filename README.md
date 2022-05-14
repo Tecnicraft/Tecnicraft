@@ -2,7 +2,7 @@
 
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner2"></a>
  
-[**Invita la versión oficial del Bot**](https://discord.com/api/oauth2/authorize?client_id=939952555839078401&permissions=8&scope=bot%20applications.commands)
+[**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
 
 # ⚠ IMPORTANTE ⚠
