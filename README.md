@@ -30,7 +30,7 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 ## 💛 APÓYANOS
 
-> Puedes apoyarme invitando a uno de **nuestros Bots**
+> Puedes apoyarme invitando a uno de **nuestros Bots**\n
 [![Tecnicraft | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/971833113728647168/26358a2854f5fe700b69fb7ace5e895a.png?size=128)](https://discord.com/api/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
 # Creditos
