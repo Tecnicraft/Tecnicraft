@@ -5,13 +5,16 @@
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner2"></a>
  
 [**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
+
 ![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 
 # ⚠ IMPORTANTE ⚠
 ![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
+
 Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas sobre como se usa, unete al Discord de Soporte!
-<br>💛 Apoya el desarollo [**donándonos**](https://paypal.me/xxsircarlospxx) 
+<br>💛 Apoya el desarollo [**donándonos**](https://paypal.me/xxsircarlospxx)
+
 ![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 # Guía de Instalación 🔥
@@ -44,7 +47,6 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 > Puedes apoyarme invitando a uno de **nuestros Bots**
 
-![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 
 
@@ -52,8 +54,10 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 [![Tecnicraft | El Más Completo Todo-En-Uno](https://cdn.discordapp.com/avatars/971833113728647168/26358a2854f5fe700b69fb7ace5e895a.png?size=128)](https://discord.com/api/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
-# Creditos
 ![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
+
+# Creditos
+![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 > Si vas a usar este bot, asegúrate de darme créditos!
 
