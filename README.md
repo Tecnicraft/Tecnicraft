@@ -3,7 +3,8 @@
 ![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner2"></a>
-<img src="https://camo.githubusercontent.com/1a4819c594efa37cb4bf0bedd6be121e417e50680a5dfd2fba0d4ff9b4d382cd/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3737353736333633383731343633303134342f7769646765742e706e673f7374796c653d62616e6e657231" alt="" data-canonical-src="https://discordapp.com/api/guilds/775763638714630144/widget.png?style=banner1" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/1a4819c594efa37cb4bf0bedd6be121e417e50680a5dfd2fba0d4ff9b4d382cd/68747470733a2f2f646973636f72646170702e636f6d2f6170692f6775696c64732f3737353736333633383731343633303134342f7769646765742e706e673f7374796c653d62616e6e657231" alt="" data-canonical-src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner1" style="max-width: 100%;">
  
 [**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
