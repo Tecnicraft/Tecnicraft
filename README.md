@@ -61,6 +61,10 @@ Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas so
 
 > Si vas a usar este bot, asegúrate de darme créditos!
 
+![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
+
+![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
+
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner1" style="max-width: 100%;"></a>
 
 ![Fin](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
