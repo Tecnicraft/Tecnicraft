@@ -3,12 +3,21 @@
 ![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner2"></a>
-{{DiscordIntegrator
-| id = 402223976375517194
-| theme = light
-| width = 300px
-| height = 500px
-}}
+<script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
+<script type="text/javascript">
+    discordWidget.init({
+        serverId: '51143782082543616',
+        title: 'Discord Widget Title',
+        join: false,
+        alphabetical: false,
+        theme: 'dark',
+        hideChannels: ['Channel Name 1', 'Channel Name 2'],
+        showAllUsers: true,
+        allUsersDefaultState: true
+    });
+    discordWidget.render();
+</script>
+<div class="discord-widget"></div>
  
 [**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
