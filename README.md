@@ -3,7 +3,12 @@
 ![Inicio](https://cdn.discordapp.com/attachments/893498966853947402/933158882061213696/line.gif)
 
 <a href="https://discord.gg/e4CDVyjHrU"><img src="https://discordapp.com/api/guilds/922570205354397697/widget.png?style=banner2"></a>
-<b href="https://discord.gg/e4CDVyjHrU"><img src="https://discord.com/api/guilds/922570205354397697/widget.json"></b>
+{{DiscordIntegrator
+| id = 402223976375517194
+| theme = light
+| width = 300px
+| height = 500px
+}}
  
 [**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=971833113728647168&permissions=8&scope=bot%20applications.commands)
 
